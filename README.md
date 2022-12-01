@@ -1,5 +1,5 @@
 ## I’m João Victor Alves
-- I´m a student of Systems and Digital Midias at UFC(_Universidade Federal do Ceará_)
+- I´m a student of Systems and Digital Midias at UFC (_Universidade Federal do Ceará_)
 - I’m interested in JavaScript, Python, Java Spring Boot, React JS, React Native and Flutter
 - I’m currently learning JavaScript, Python and React and Web Technologies like HTLM5, CSS3 and Bootstrap 
 
