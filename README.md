@@ -38,16 +38,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
 </p><br>
-<h3>About me:<h3/>
-  
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaoVictorBAlves" alt="joaoVictorBAlves" /></a>
+<h2>🏆Statistics About me:<h2/>  
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaoVictorBAlves&theme=algolia" alt="joaoVictorBAlves" /></a>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoVictorBAlves&show_icons=true&locale=en&layout=compact" alt="joaoVictorBAlves" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoVictorBAlves&theme=algolia&show_icons=true&locale=en&layout=compact" alt="joaoVictorBAlves" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=joaoVictorBAlves&show_icons=true&locale=en" alt="joaoVictorBAlves" />
+<img src="https://github-readme-stats.vercel.app/api?username=joaoVictorBAlves&theme=algolia&show_icons=true&locale=en" alt="joaoVictorBAlves" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoVictorBAlves&" alt="joaoVictorBAlves" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoVictorBAlves&theme=algolia" alt="joaoVictorBAlves" />
 <br>
 
 <!---
