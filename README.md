@@ -1,11 +1,7 @@
-
-# Hi, I am João Victor
-
 ![image](https://user-images.githubusercontent.com/86852231/208265251-4dc321d7-8c20-4788-a69f-6d8ef381b560.png)
 
 
-<h1 align="center">I'm João Victor Alves</h1>
-<h3 align="center">I love programming, lets code together!</h3>
+<h2 align="center">🖖🏻Hi! My name is João!</h2>
 
 
 - 🌱 I’m currently learning NextJS and NodeJS.
@@ -31,6 +27,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="css3" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="nodejs" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="java" width="40" height="40"/> 
