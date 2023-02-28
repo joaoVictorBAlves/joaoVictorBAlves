@@ -1,6 +1,3 @@
-![image](https://user-images.githubusercontent.com/86852231/208265251-4dc321d7-8c20-4788-a69f-6d8ef381b560.png)
-
-
 <h2 align="center">🖖🏻Hi! My name is João!</h2>
 
 
@@ -13,13 +10,6 @@
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-alves-ab7931163/)
 
 - 📫 How to reach me **joaovba.dev@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-alves-ab7931163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak bhardwaj" height="30" width="40" /></a>
-<a href="https://www.instagram.com/joaovba.dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="deepakbhardwaj" height="40" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
