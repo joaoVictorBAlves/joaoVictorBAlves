@@ -1,4 +1,14 @@
-<h2 align="center">🖖🏻Hi! My name is João!</h2>
+<div align="center">
+<h3 align="center">
+  Hi, I'm João Victor!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20and%20App%20Developer;University%20Student;Always%20eager%20to%20learn%20%3A)&font=Fira%20Code&center=true&color=f75c7e&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
+</p>
+</div>
 
 
 - 🌱 I’m currently learning NextJS and NodeJS.
@@ -11,7 +21,7 @@
 
 - 📫 How to reach me **joaovba.dev@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and tools 
 <p align="left"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -26,13 +36,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
 </p><br>
 
-<h2>🏆Statistics About me:<h2/>  
+## Stats about me 
+<div align="center">
+<img height="180" src="https://streak-stats.demolab.com?user=joaoVictorBAlves&theme=tokyonight&hide_border=true&mode=weekly"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoVictorBAlves&layout=compact&theme=tokyonight"/>
+</div>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaoVictorBAlves&theme=algolia" alt="joaoVictorBAlves" /></a>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoVictorBAlves&theme=algolia" alt="joaoVictorBAlves" />
-<br>
-  
+## Snake commits 
 ![Snake animation](https://github.com/joaoVictorBAlves/joaoVictorBAlves/blob/output/github-contribution-grid-snake.svg)
 
 <!---
