@@ -42,6 +42,8 @@
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoVictorBAlves&theme=algolia" alt="joaoVictorBAlves" />
 <br>
+  
+![Snake animation](https://github.com/joaoVictorBAlves/joaoVictorBAlves/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 joaoVictorBAlves/joaoVictorBAlves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
